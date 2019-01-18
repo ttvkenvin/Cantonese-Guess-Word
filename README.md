@@ -8,11 +8,11 @@ That is a game about cantonese,when you pass a level you can get the explain and
 
 # Screenshot
 
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/ttvkenvin/Cantonese-Guess-Word/blob/master/1.png)
+![image](https://github.com/ttvkenvin/Cantonese-Guess-Word/blob/master/2.png)
+![image](https://github.com/ttvkenvin/Cantonese-Guess-Word/blob/master/3.png)
+![image](https://github.com/ttvkenvin/Cantonese-Guess-Word/blob/master/4.png)
+![image](https://github.com/ttvkenvin/Cantonese-Guess-Word/blob/master/5.png)
 
 # contact
 
