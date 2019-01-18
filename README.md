@@ -1,4 +1,4 @@
-![image]()
+![image](https://github.com/ttvkenvin/Cantonese-Guess-Word/blob/master/180.png)
 
 # Cantonese-Guess-Word
 
