@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  cantoneseGame
+
+  Created by dw on 16/1/25.
+  Copyright © 2016年 slippers. All rights reserved.
+*/
+"tile"="this cantonese word mean that ..I can guess it, I surrender....";
+"theUrl"="https://itunes.apple.com/us/app/id1078005986?mt=8";
+
+"tip1"="after you chosen the level and enter the game scene , you can tap the tips button to get the question";
+"tip2"="pull the right word to the empty boxes to spell the answer to question";
+"tip3"="when you pass one level you can see what that word mean and a example how to use";
+"tip4"="when you tap the loudspeaker you can listen how this example say";
+"tip5"="when you don't know what is the answer you can tap the red button on the right ,you can get a right word if you choose to watch a AD";

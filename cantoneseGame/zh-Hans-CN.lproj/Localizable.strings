@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  cantoneseGame
+
+  Created by dw on 16/1/25.
+  Copyright © 2016年 slippers. All rights reserved.
+*/
+"tile"="这个粤语词组居然还有这个意思。。。我还真不知到，而且示范的读音还这么。。魔性，也是没谁了。。";
+"theUrl"="https://itunes.apple.com/cn/app/id1078005986?mt=8";
+
+"tip1"="当你选关进入游戏界面后，按tips按钮会得到这关的题目";
+"tip2"="把下面的字按照问题的答案，移动到上方的空格之内";
+"tip3"="当你通过一关之后，会有解释和例子，例子在解释下面，弹窗的文字可以拖动";
+"tip4"="当你按弹窗中的扩音器按钮，会有例子的语音示范";
+"tip5"="当你不能解答的时候你可以按右面的红色按钮，可以选择通过看广告来的到一个正确的字";

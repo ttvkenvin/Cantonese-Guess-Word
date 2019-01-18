@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E0CBAF873B9F1D9151CE997C403098ADE89BF3CB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E0CBAF873B9F1D9151CE997C403098ADE89BF3CB" : 0,
+    "DB787F60891FA5CBEF1CE2E31A49EAE55FB826B6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BBF520BF-85FD-4E70-A209-5C57E0B38B94",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E0CBAF873B9F1D9151CE997C403098ADE89BF3CB" : "cantoneseGame\/",
+    "DB787F60891FA5CBEF1CE2E31A49EAE55FB826B6" : "DW\/staggeringBeauty\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "cantoneseGame",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "cantoneseGame.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jdwdw\/staggeringBeauty.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DB787F60891FA5CBEF1CE2E31A49EAE55FB826B6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jdwdw\/cantoneseGame.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E0CBAF873B9F1D9151CE997C403098ADE89BF3CB"
+    }
+  ]
+}
