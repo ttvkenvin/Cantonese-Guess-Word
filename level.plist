@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>捞子佬妹头私蛊陌惑版人鬼声醒污</string>
+		<key>answer</key>
+		<string>私人醒</string>
+		<key>tips</key>
+		<string>意思是：我个人有好处送给你。
+
+这题的答案就是“私人醒”，这题答案系我私人醒你的。</string>
+		<key>explain</key>
+		<string>解释：私人，就是我个人，醒，就是，送的意思，加起来就是我个人给你的。
+
+例子：尼题噶答案就当系我私人醒你噶，后面就无感着数噶啦。（这题的答案就当是我个人给你的好处，后面的就没有这么便宜你的东西。）</string>
+		<key>voice</key>
+		<string>voice0.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>食西瓜柠檬苹果雪梨荔枝龙眼提子</string>
+		<key>answer</key>
+		<string>食柠檬</string>
+		<key>tips</key>
+		<string>给人一个软钉子碰，让他碰壁尴尬的意思。</string>
+		<key>explain</key>
+		<string>解释：食柠檬，吃了柠檬一定酸酸的，受了别人的拒绝应该更加酸吧。
+
+例子：哎，尼次约女仔又吃柠檬。（哎，这次邀女孩子去玩又被拒绝了。）</string>
+		<key>voice</key>
+		<string>voice1.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>吃死猫吞死狗咽老鼠啃牛头食蛇胆</string>
+		<key>answer</key>
+		<string>吃死猫</string>
+		<key>tips</key>
+		<string>被迫背黑锅的意思。</string>
+		<key>explain</key>
+		<string>解释：就是背黑锅的意思（真的找不到典故啊。。。。）
+
+例子：你下下帮你老细吃死猫，甘落去都唔系办法。(你每次都帮你的老板背黑锅，这样下去也不是长远之计。)</string>
+		<key>voice</key>
+		<string>voice2.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>苦过哥哥姐姐弟弟妹妹叔叔伯伯爸</string>
+		<key>answer</key>
+		<string>苦过弟弟</string>
+		<key>tips</key>
+		<string>形容苦不堪言。</string>
+		<key>explain</key>
+		<string>解释：以前广东人叫鸭做“弟弟”(现在已经没什么人叫了)，有道菜很家常，叫做“苦瓜炆鸭”，也是一道苦菜，之后也就有了“苦过弟弟”的说法了。
+
+例子：尼锅真系苦过弟弟咯。(这次真是苦不堪言。)</string>
+		<key>voice</key>
+		<string>voice3.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>左肺粉肠小肾大腿手指喉咙瘦牙齿</string>
+		<key>answer</key>
+		<string>粉肠</string>
+		<key>tips</key>
+		<string>动物的一个器官，也常被用作对不屑的男人的叫法，一般用于年轻人</string>
+		<key>explain</key>
+		<string>解释：这个是俗语，也不知出处大家都这么用。（多用于小学生闹矛盾）
+
+例子：你条粉肠，有种无走！放学门口等！（你这个混蛋，有勇气的话就不要跑，放学门口等。）</string>
+		<key>voice</key>
+		<string>voice4.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>入鼠走狗飞象出猫狂狮好虎你老豆</string>
+		<key>answer</key>
+		<string>出猫</string>
+		<key>tips</key>
+		<string>考试作弊的一个说法</string>
+		<key>explain</key>
+		<string>解释：&apos;Copy cat&apos;是模仿别人的动作,而抄袭是模仿别人的文章内容,也是令人讨厌的模仿动作,故此&apos;Copy cat&apos; 亦引申为抄袭。
+
+例子：顶，考试唔出猫，实肥佬（肥佬＝＝fail）噶。(卧槽，考试不作弊，一定会不合格的。)</string>
+		<key>voice</key>
+		<string>voice5.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>扯大鸡蛋砌生猪肉砍熟牛肉我投降</string>
+		<key>answer</key>
+		<string>砌生猪肉</string>
+		<key>tips</key>
+		<string>指以伪证冤枉及诬告。来源于香港的粤语、英语夹杂的情况。（charge）</string>
+		<key>explain</key>
+		<string>解释：此词中的“生猪”乃来自英语，即“charge”（检控）的本义；“砌”就来自中文，就是组织之意，两者结合起来，就是“砌生猪肉”。本来英文“charge”的粤话音译用“差厨”是比较适合的，后来在以讹传讹的情况下改为“生猪”了，有见及此，当时人认为既然有“生猪”出现，不妨加上“肉”字，令到念起来时较为生动有趣，于是便落实了“砌生猪肉”这句俗语。 当时差馆师爷的英语水平极差，常以中英混式语句和洋人警官谈话。“砌猪”仍英文“charge”的粤语译音，其中砌字可解作堆砌或砌词；“砌 charge”便成为堆砌供词，将无辜者提出控告。
+
+例子：你唔好霖住砌我生猪肉啊，我后面有人照噶！（你不要想着去冤枉我啊，我有后台罩住我的。）</string>
+		<key>voice</key>
+		<string>voice6.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>托手踭举大臂摇双手摆晒头叫救命</string>
+		<key>answer</key>
+		<string>托手踭</string>
+		<key>tips</key>
+		<string>明确地拒绝或推搪别人的请求，根本不考虑求助者的情感。</string>
+		<key>explain</key>
+		<string>解释：托手踭原指当别人伸出求助之手时，却托起他的手肘，其真正意思是明确地拒绝或推搪别人的请求，根本不考虑求助者的情感。
+
+例子：我一世人就系求过你尼次,你千祈咪托我手踭。（我这辈子就求你这次,你可千万别推托啊。）</string>
+		<key>voice</key>
+		<string>voice7.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>耍散了个肾浪清了个袋玩创晒个心</string>
+		<key>answer</key>
+		<string>玩创晒个心</string>
+		<key>tips</key>
+		<string>把心思都给玩野了，没有心思工作了</string>
+		<key>explain</key>
+		<string>解释：把心给玩创了，当然野咯
+
+例子：死仔，放假唔好玩创晒个心啊。(臭小子放假不要把心路子给玩野了。)</string>
+		<key>voice</key>
+		<string>voice8.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>捉蚂捉蚁擒鸟捉虫抓蛾扑蝶睇电视</string>
+		<key>answer</key>
+		<string>捉虫</string>
+		<key>tips</key>
+		<string>意思为自找麻烦，弄巧成拙。这个词来源于BUG</string>
+		<key>explain</key>
+		<string>解释：在广东话里，“捉虫”整句话应该是“捉虫入屎忽”，屎忽指屁股，这里的“捉虫入屎忽”，意思就是自己把虫子塞屁眼里，自找麻烦，弄巧成拙。
+
+例子：尼锅真系捉虫，居然同条女讲起前女友。。。(这次真是自己找麻烦了，跟女友提起了前女友的事情。。。)</string>
+		<key>voice</key>
+		<string>voice9.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>蛋饼糕贵饭忙倒桶米伤烧金铜银作</string>
+		<key>answer</key>
+		<string>倒米</string>
+		<key>tips</key>
+		<string>把贵重的反而倒掉了，指帮倒忙。</string>
+		<key>explain</key>
+		<string>解释：“米”则是广东人的主粮食之一，米在以前即财富，把米倒掉了，把贵重的反而倒掉了，延伸指帮倒忙，多作形容词用。
+
+例子：我系度博紧命，你唔好倒米好唔好？(我正在拼命，你不要来帮倒忙行不行啊？)</string>
+		<key>voice</key>
+		<string>voice10.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>条碌部块旧片截肺肠柒皮树木屎石</string>
+		<key>answer</key>
+		<string>碌柒</string>
+		<key>tips</key>
+		<string>一段男人的那个，与国语中的“卧槽”用法相同</string>
+		<key>explain</key>
+		<string>解释：这个真不知怎么解释了。。。就是一句脏话。。解释出来苹果不让上啦
+
+例子：碌柒！今次真系唔知点算好！（卧槽，这次真不知到怎么办才好。）</string>
+		<key>voice</key>
+		<string>voice11.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>屎忽屁股逻柚墙头草树鬼人牛马羊</string>
+		<key>answer</key>
+		<string>屎忽鬼</string>
+		<key>tips</key>
+		<string>巴结拍马屁，说恭维话，向人讨好的人。也指男同性恋者</string>
+		<key>explain</key>
+		<string>解释：这个就不解释了。。不让上了。。
+
+例子：你尼个阴阳屎忽鬼。&lt;九品芝麻官中周星驰骂那个公公&gt;（就是骂人的话。。不解释了）</string>
+		<key>voice</key>
+		<string>voice12.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>烧饼马子蒸糕曲奇蛋散春卷豆沙包</string>
+		<key>answer</key>
+		<string>蛋散</string>
+		<key>tips</key>
+		<string>1.广东小吃,以香脆著称。
+2.引申。以形容不学无术，无用之人,取其&quot;不够刚硬&quot;之特征，多为贬义。</string>
+		<key>explain</key>
+		<string>解释：在粤语中即是胆小怕事或不成气候没出息的小人物，取其&quot;不够刚硬&quot;之特征。
+
+例子：你条蛋散，好学唔学，学埋晒你老豆点衰野。(你这个不学无术的家伙，有好的不学，把你爸那些不好的东西全学了。)</string>
+		<key>voice</key>
+		<string>voice13.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>板卤水鸡翅味倒忽饼卵然蛋奇怪葩</string>
+		<key>answer</key>
+		<string>卤味</string>
+		<key>tips</key>
+		<string>1.用卤汁中煮制而成的菜肴
+2.“你老母”的另一种读法，语气比“你老母”相对要强烈一些</string>
+		<key>explain</key>
+		<string>解释：谐音老母
+
+例子：你卤味！（一句脏话。(问候别人的妈妈的))</string>
+		<key>voice</key>
+		<string>voice14.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>契傻蠢俹蛋笨瓜簁重木毒虫树版奇</string>
+		<key>answer</key>
+		<string>俹簁</string>
+		<key>tips</key>
+		<string>也读作（乸西）是广州语本字，有轻率、无责任、得过且过的意思。</string>
+		<key>explain</key>
+		<string>解释：俹簁，《广州语本字》“俹簁者，作事苟且而不精细也。”,唔卵系粗口来噶。（俹簁，《广州语本字》“俹簁者，作事苟且而不精细也。”,不是脏话。）
+
+例子：你做野可唔可以无感俹簁！（你工作能不能这么得过且过，不靠谱。）</string>
+		<key>voice</key>
+		<string>voice15.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>斑鹤鸡鹅雀鸠凤鸾凰鹏屁平水屎尿</string>
+		<key>answer</key>
+		<string>鸠屎</string>
+		<key>tips</key>
+		<string>意思为“傲蛮”“嚣张”“犀利”，（其中有一个字为鸟类的名字）</string>
+		<key>explain</key>
+		<string>解释：斑鸠是古时候一种鸟中贵族,而鸠拉出来的屎也比其它鸟类的屎要高贵。
+
+例子：咁快沟到条女，鸠屎啦你。（这么快就泡到妞，了不起啊你。）</string>
+		<key>voice</key>
+		<string>voice16.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>吹树风滚着动草猫鼠鬼走跑飞狗肺</string>
+		<key>answer</key>
+		<string>着草</string>
+		<key>tips</key>
+		<string>为避风头而秘密离开(与另一个词“走佬”类似)</string>
+		<key>explain</key>
+		<string>解释：穿着草鞋和草蓑走在野外，草蓑能遮挡风雨帮助隐蔽，草鞋能防滑防声以便奔走。故此，黑道常以“着草”一词形容秘密潜逃。
+
+例子：大佬，尼排查的好严，不如我地着草咯。（大哥，最近查的非常严格，不如我们离开这里避风头吧。）</string>
+		<key>voice</key>
+		<string>voice17.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>拖粉收皮拉面蒸蛋糕扯旗滚动掌嘴</string>
+		<key>answer</key>
+		<string>收皮</string>
+		<key>tips</key>
+		<string>最原始的意思是指结束，延伸意表示不同意对方意见让他闭上嘴巴</string>
+		<key>explain</key>
+		<string>解释： 以前有人在街上非法摆卖玩番摊,看风声的人一见到有差人要来查,就会叫「收皮」(结束了),叫摆摊口的人赶紧收摊走人。
+
+例子：A：条友话距识林志玲喔。(那个人说他认识林志玲啊。)
+         B：收皮啦！我够识啊盖茨咯，距唔识我啊嘛！(别扯蛋了！我也认识盖茨（比尔.盖茨）啊，只是盖茨他不认识我而已。)</string>
+		<key>voice</key>
+		<string>voice18.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>大口九耳窿屎忽冬瓜鼠小喇叭声公</string>
+		<key>answer</key>
+		<string>大耳窿</string>
+		<key>tips</key>
+		<string>用于称呼放高利贷</string>
+		<key>explain</key>
+		<string>解释：因为早期香港有些专门放高利贷的印度人,喜欢在耳朵上穿孔戴环,耳垂吃重下垂使耳洞看起来很大,就有人将这耳洞和债务的无底洞联想到一起,而创出“大耳窿”的叫法。
+
+例子：你条死仔借大耳窿，9出13归点还啊！（你个混蛋小子，居然去借高利贷，借9还13的利率，怎么还啊。）</string>
+		<key>voice</key>
+		<string>voice19.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>石沙木屎心肺胆肠肥树水蛋散米甘</string>
+		<key>answer</key>
+		<string>沙胆</string>
+		<key>tips</key>
+		<string>无所畏惧，胆子很大，因为香港的一部电影，常与人名“英”连用，“＊＊英”</string>
+		<key>explain</key>
+		<string>解释：胆里面都生出沙子啦，能不大吗。。。
+
+例子：沙胆英，系我个场玩野，你都真系沙胆。（沙胆英，在我的场地里面搞乱，你的胆子还真是足够大。）</string>
+		<key>voice</key>
+		<string>voice20.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>呕打作恶核突喉咙吐我编不下去了</string>
+		<key>answer</key>
+		<string>核突</string>
+		<key>tips</key>
+		<string>意为“恶心”、“古怪”、“不伦不类”。由于见到恶心的东西而引起呕吐感。这个时候喉咙的喉结都要吐出来的一样。</string>
+		<key>explain</key>
+		<string>解释：由于见到恶心的东西而引起呕吐感。这个时候喉咙的喉结都要吐出来的一样。喉咙的“核”都“突”出来了。这样说很形象，也很通俗。
+
+例子：唔好再做点咁核突的动作好嘛？（不要再做这么恶心的动作好不好？）</string>
+		<key>voice</key>
+		<string>voice21.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>一条蔗块饼束蕉旧瓜番石碌葛榴薯</string>
+		<key>answer</key>
+		<string>一碌葛</string>
+		<key>tips</key>
+		<string>形容人好像某一种植物一样木头木脑，说人呆笨</string>
+		<key>explain</key>
+		<string>解释：形容人好像粉葛一样木头木脑，说人呆笨。一种形象，地道的说法，一般常用于偏贬义的语境中，多带责备口吻，和普通话里形容一个人呆笨的用法差不多。
+
+例子：唔好一碌葛咁企喺度喇，过嚟帮下手好唔好。(不要木头木脑的站在那里啦，过来帮帮忙好不好。)</string>
+		<key>voice</key>
+		<string>voice22.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>木独韩傻撼低戆居撖里酣嗜闷契砌</string>
+		<key>answer</key>
+		<string>戆居</string>
+		<key>tips</key>
+		<string>在粤语中一般指人目光呆滞，傻乎乎的样子，常用于形容人愚笨。第一个字常被误认为是“憨”</string>
+		<key>explain</key>
+		<string>解释：戆居，又作“戆居居”，在粤语中一般指人目光呆滞，傻乎乎的样子，常用于形容人愚笨。注：“憨居”并非正确写法，“憨”在粤语中并没有“ngong6”的读音，只有“ham1”的读音，所以它不是粤语方言中的“戆居”，但它常被人写错。因此，“戆居”不是表达人憨态可掬、忠厚老实的意思，而是表达傻愣、鲁莽的意思。
+
+例子：正戆居。（就一傻瓜。）</string>
+		<key>voice</key>
+		<string>voice23.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>猥琐花飞麻甩黄心眼红色情男佬捞人仔</string>
+		<key>answer</key>
+		<string>麻甩佬</string>
+		<key>tips</key>
+		<string>广东方言词语一般形容喜欢挑逗、调戏女生的男人，含有贬义的。</string>
+		<key>explain</key>
+		<string>解释：清朝的时候，广州有很多比利时来的传教士医生。每当有病人上门求医的时候，就会用法语讲“Malade”（意为病人）。广州人听不懂法语，以为讲的是“男人”的意思，就用了在粤语里和malade发音相近的“麻甩”这个词。因为当时广州人对外国人甚无好感，于是麻甩便有了代指粗鲁男人的蔑视意义。
+
+例子：我警告你，你条“麻甩佬”离我远啲。(我警告你啊，你这个“麻甩佬”离我远点。)</string>
+		<key>voice</key>
+		<string>voice24.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>锦鲤金鱼海豚水母沙虫佬男人捞仔</string>
+		<key>answer</key>
+		<string>金鱼佬</string>
+		<key>tips</key>
+		<string>怪叔叔（怪蜀黍，影射恋童癖）的别称，与女童说：“叔叔带你睇**(一种生物)”。</string>
+		<key>explain</key>
+		<string>解释：来源于香港以前的一个案件：一个中年男子出于诱拐的目的，在天台上养了金鱼，并陆续地对一些小女孩说：“小妹妹，叔叔带你去看金鱼好不好呀？”带到天台上后伺机侵犯，后来人们就用“金鱼佬”代表有恋童癖的男子，乃至表示怀有明显欺骗目的攀谈年轻女生的男人，尤其是老男人。
+
+例子：细路女唔好一个人出夜街啊，出面好多金鱼佬噶。(小女孩不要独自一人晚上出去玩，外头很多怪叔叔的。)</string>
+		<key>voice</key>
+		<string>voice25.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>拉柴面蒙憨居木契老污鼠死肥衬佬</string>
+		<key>answer</key>
+		<string>老衬 </string>
+		<key>tips</key>
+		<string>形容愚蠢、头脑糊涂、被别人占便宜的人，或者被别人怂恿去做一些对自己没有利益可言事情的人。有时也作为对媳妇或女婿的父母的称呼，也有一种情况形容新婚的男士</string>
+		<key>explain</key>
+		<string>解释：民国时期有本省港流行的故事书《鬼才伦文叙》，署名系衬叔著。该书故事情节多系酒色才气之间斗智输赢的描述。其精妙之处是赢者不但得益、更且令输者不敢声张，自认倒霉。凡看过此书或听过此故事的人，在人情世故上多了一个揾人着数的心眼（或可叫精明、也可叫古惑），而被人罗着数的人将责任归咎于始作俑者--衬叔，衬叔一把年纪，就被尊称为老衬，故将罗人着数者埋堆称为老衬底了。 继而就有坊间口语，比人揾笨者系正老衬，罗人着数者叫揾老衬。
+
+例子：你地唔好虾敏哥啦，距就正一鳄鱼头，老衬底。(你们不要欺负敏哥了，他就是看起来凶，其实他很善良容易被骗。)</string>
+		<key>voice</key>
+		<string>voice26.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>吮喷吞刮挑瓢泵抽吸吐雾油水汤面饭</string>
+		<key>answer</key>
+		<string>抽水</string>
+		<key>tips</key>
+		<string>原指打牌时胜者抽些钱出来请客,现在泛指从中谋取利益和占便宜。延伸指占异性或同性便宜。（与揩油，索油相类似）</string>
+		<key>explain</key>
+		<string>解释：广府俚语“揩油”泛指占便宜，特指吃豆腐；“索油”先专指吃豆腐；“抽水”指赌场嘅抽头。
+
+例子：条友下下抽水，感你都忍到距。(那个人每次都占你便宜，这样你也能容忍到他。)</string>
+		<key>voice</key>
+		<string>voice27.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>一二三四五拍抽打揍捶六七八九十</string>
+		<key>answer</key>
+		<string>二打六</string>
+		<key>tips</key>
+		<string>无关紧要的人物，小角色。这个词语专指人，而不指工具等其他事物。（京剧叫跑龙套，香港影艺界叫它做‘茄喱啡’）</string>
+		<key>explain</key>
+		<string>解释：‘打’有和、共、及、加的意思。‘二打六’即‘二和六’ 或 ‘二加六’的意思，二加六合起来是八，不够十。所以说一个人，做事不够十足，所以就说别人‘二打六’了。
+
+例子：我呢的二打六，感笋噶野边轮到我啊。（我这种小角色，这种好事哪里会轮到我啊。)</string>
+		<key>voice</key>
+		<string>voice28.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>汗咸寒憨喊酣撖涵索施嘘湿锁食娑</string>
+		<key>answer</key>
+		<string>咸湿</string>
+		<key>tips</key>
+		<string>源出于英语hamshop，是淫秽，好色之意。</string>
+		<key>explain</key>
+		<string>解释：《羊城晚报》的《晚会》版曾刊有识者的考证文章，谓“咸湿”源于英语hamshop（沪人译为“咸肉庄”，指妓院）的译音。“咸湿”还有另外一个典故。话说清民年间，广州的下层市民———苦力、工人、学徒等工余找乐子，也要解决生理需要，彼辈全不理会天气炎热，常常浑身臭汗地钻进妓院里，炮寨（下等妓院）的姐儿事后少不了拿他们开涮，笑话这些又咸又湿的汉子“擒擒青”（鲁莽急色），由是“咸湿”融入淫秽下流的语境从妓院流出坊间。　“咸湿”后来简化为“咸”构成“咸片”、“咸猪手”等俚语。
+
+例子：你条咸湿佬，又去装人冲凉。(你这个好色的家伙，又去偷窥别人洗澡。)</string>
+		<key>voice</key>
+		<string>voice29.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>装人晒扮狗显金命摆起炫光耀世果</string>
+		<key>answer</key>
+		<string>晒命</string>
+		<key>tips</key>
+		<string>其寓意就是把自己的家当摊开来、倒出来给别人看，显示自己有多“威水”，多么地威风。与现在常用的装b类似。</string>
+		<key>explain</key>
+		<string>解释：旧时候，广东人很喜欢拿海味（咸鱼、海参）、梅菜之类的到巷尾或门前晒干做干食。这样做就是要把东西摊开来在烈日下能够晒得好，晒得干。摊开来其实就是把所有的东西显示出来，其他人都能看得见，那么其他人就能看到你有多少家底了。
+
+例子：知你威啦，唔好系度晒命好唔好。(知道你威风，不要在这炫耀好不好。)</string>
+		<key>voice</key>
+		<string>voice30.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>没唔毛有冇眼睛目脸看睇管观望级</string>
+		<key>answer</key>
+		<string>冇眼睇</string>
+		<key>tips</key>
+		<string>意思是不想看、不想理。常指对某些事情或行为看不惯，持一种消极回避的态度。</string>
+		<key>explain</key>
+		<string>解释：没有眼睛去看，当然是看不下去，不想去管了。
+
+例子：你睇距个衰样，我真系冇眼睇咯。(你看看他那样子多么的衰，我真的看不下去了。)</string>
+		<key>voice</key>
+		<string>voice31.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>眼心树肉中矛肺中央顶住杉手中刺</string>
+		<key>answer</key>
+		<string>顶心杉</string>
+		<key>tips</key>
+		<string>粤语里指专门跟你作对的人，就如国语中的“眼中钉”“肉中刺”</string>
+		<key>explain</key>
+		<string>解释：心上有一木杉。。当然不爽啊。
+
+例子：个衰仔成支顶心杉感顶系度。(那个臭小子就像心上的一个木杉一样，处处跟我作对。)</string>
+		<key>voice</key>
+		<string>voice32.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>神台屎卖剩橘砍剩树箩底吃剩饭橙</string>
+		<key>answer</key>
+		<string>箩底橙</string>
+		<key>tips</key>
+		<string>广东俚语，其意皆为积压的货物，多用于形容剩女。与之意义相近的还有“神台桔”，即用于拜神，放在神台上直至干瘪的桔子，多用于形容老处女。还指嫁不出去的女人，与“卖剩蔗”同义，贬义词。</string>
+		<key>explain</key>
+		<string>解释：箩底的橙子当然是卖剩下的没有人去要啦。
+
+例子：你正一箩底橙，拿出去都冇人候。(你就是一箩底的橙子，拿出去也没用人问候。)</string>
+		<key>voice</key>
+		<string>voice33.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>摄柜边塞锅底掂台脚贴灶墙壁放罅</string>
+		<key>answer</key>
+		<string>摄灶罅</string>
+		<key>tips</key>
+		<string>广东话里嫁不出去的姑娘，与“老姑婆”的意思相接近</string>
+		<key>explain</key>
+		<string>解释：为固定「镬」、「锅」等炉具在煮食时的位置，古人利用一些小物品填补灶罅。通常这些都是没用的东西。
+
+例子：嗰女咁大仲唔嫁，唔通留番来摄灶罅咩。(女儿这么大了还不出嫁，难道留下来塞灶头缝隙吗？)</string>
+		<key>voice</key>
+		<string>voice34.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>蛊救惑皱斗皮百蛋厌扯犊子一玩命</string>
+		<key>answer</key>
+		<string>百厌</string>
+		<key>tips</key>
+		<string>意思为调皮，与“反斗”，“韧皮”类似。</string>
+		<key>explain</key>
+		<string>解释：这个是俚语，习惯着用的，找不到典故。
+
+例子：你个百厌星唔好玩啦。(你这个顽皮的孩子不要再玩啦。)</string>
+		<key>voice</key>
+		<string>voice35.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>傻到上脑子憨的没朋友懵到上心口</string>
+		<key>answer</key>
+		<string>懵到上心口</string>
+		<key>tips</key>
+		<string>糊涂，迷糊到一定的境界了</string>
+		<key>explain</key>
+		<string>解释：都迷糊到了心口上面了，当然是傻到没有朋友啦。
+
+例子：你又比你前任厄，你真系懵到上心口。（你又被你的前任给骗了，真的迷糊到一定的境界了。)</string>
+		<key>voice</key>
+		<string>voice36.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>石板根霖树根茂木杉利铁柱唔出了</string>
+		<key>answer</key>
+		<string>茂利</string>
+		<key>tips</key>
+		<string>像一根根木棍或木柱，就像傻愣愣站著的人，后来变成用来形容一些愚钝之人。</string>
+		<key>explain</key>
+		<string>解释：由20世纪初，英国人在香港教中国人建筑而来,当时香港人又不懂英文，听见那些洋人指著一大根木杆猛叫“mullion”，渐渐就学著叫“茂利”，意思是一根根木棍或木柱，就像傻愣愣站著的人，后来变成用来形容一些愚钝之人。
+
+例子：唔好理距啦，条友正茂利来噶。(不要理他了，那个人就是一个傻子。)</string>
+		<key>voice</key>
+		<string>voice37.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>条晒游舞干打电脑心水口弹钢摸琴</string>
+		<key>answer</key>
+		<string>游干水</string>
+		<key>tips</key>
+		<string>打麻将的一个暗语</string>
+		<key>explain</key>
+		<string>解释：把游水的动作在没有水的地方做，看一下是不是打麻雀的洗牌动作。
+
+例子：晚晚去游干水闷唔闷噶你地，今晚不如真系去游水咯。(每天晚上去打麻雀你们不觉得闷吗，不如今天晚上我们真的去游游吧。)</string>
+		<key>voice</key>
+		<string>voice38.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>扑街玩晒啦阳阴母公中分凄凉怜悯</string>
+		<key>answer</key>
+		<string>阴公</string>
+		<key>tips</key>
+		<string>粤方言，含有可怜、同情、凄惨、悲哀等意思。</string>
+		<key>explain</key>
+		<string>解释：阴公，其实系指「阴间的公德」，是人在阳世行善事为自己在阴间积下来的，话人「无阴公」，是说一个人做事没公德，没良心，是骂人的，也是对事件的一种感叹，而阴公，相信只是「无阴公」的简化，好多时我们都有习惯将语句简化。
+
+例子：今晚又加班？阴公咯！(今晚又要加班？真惨啊！)</string>
+		<key>voice</key>
+		<string>voice39.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>玩火电雷吹风水海扯东西南北中发</string>
+		<key>answer</key>
+		<string>吹水</string>
+		<key>tips</key>
+		<string>指“闲聊”，是“聊天”的意思，香港人叫“打牙较”。</string>
+		<key>explain</key>
+		<string>解释：所谓“吹水”，粤语俗语之一，大致可以理解为侃侃而谈之意，形象地表现了口水花四喷的情景。和吹牛不同，吹水基本不含感情色彩，可以说是联络感情、交流思想的渠道，比聊天一词又更市井、更亲切一点。
+
+例子：得闲出去吃个宵夜，吹下水。(有空出去吃宵夜聊聊天。)</string>
+		<key>voice</key>
+		<string>voice40.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>蛋掂搞疼作死点算舐扑街嘢唔咩鬼</string>
+		<key>answer</key>
+		<string>舐嘢</string>
+		<key>tips</key>
+		<string>惹到到麻烦了</string>
+		<key>explain</key>
+		<string>解释：舐，就是舔的意思，舔到不好的东西当然麻烦咯
+
+例子：尼锅舐嘢啦。(这次惹到大麻烦啦。)</string>
+		<key>voice</key>
+		<string>voice41.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>鬼老虎赖象嘴口九喇叭嘴大眼鸡蛋</string>
+		<key>answer</key>
+		<string>鬼赖口</string>
+		<key>tips</key>
+		<string>张口就是晦气的话，还说个不停</string>
+		<key>explain</key>
+		<string>解释：鬼口说出来的话当然不好听啦。
+
+例子：唔好日日鬼赖口，好嘛？(不要每天都张口就是晦气话，好吗？)</string>
+		<key>voice</key>
+		<string>voice42.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>我菊服硬成狗掘岩石板台铿如擂捶</string>
+		<key>answer</key>
+		<string>掘擂捶</string>
+		<key>tips</key>
+		<string>一般是指说话的语气很硬,令人感觉不舒服,或难受</string>
+		<key>explain</key>
+		<string>解释：掘擂捶。。。看字解释就可以知道多硬。。简直无情。
+
+例子：你讲野唔好下下掘擂捶，好难顶噶。(你说话语气不要每次都这么硬，好来忍受的。)</string>
+		<key>voice</key>
+		<string>voice43.m4a</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>夜店老卡蒲精泥水妹流浪女非主流</string>
+		<key>answer</key>
+		<string>老泥妹</string>
+		<key>tips</key>
+		<string>本义是说边缘人，现在引申形容身世凄惨，畸形，滥交，流浪街头的女孩子。</string>
+		<key>explain</key>
+		<string>解释：出于香港电影《老泥妹》（1995年），然后就用于形容不洁身自爱的女孩子。
+
+例子：要好好做人，唔好做老泥妹。(要好好的做人，不要成为流浪街头的女孩子。)</string>
+		<key>voice</key>
+		<string>voice44.m4a</string>
+	</dict>
+</array>
+</plist>
